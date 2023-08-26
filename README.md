@@ -1,43 +1,34 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Hi, hello!👋 
+**I'm Marissa Maldonado: former mathematics major, current student of life.**
 
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
+<details>
+<summary>Introducing myself, TDF goals, future plans, research, curiosities, and personal strengths!</summary>
 
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link! 
+After 6 years of studying math (with a bit of computer science here and there), I came to realize I wanted experience with real-world projects. I knew that learning was more than being lectured to and regurgitating notes on an exam, so I built projects across web design, STEM education research, and community engagement workshops in my free time. I'm looking forward to getting out of my comfort zone in TDF and finally exploring applications beyond the textbook. 
 
-The specific file that I’m typing into right now is the **README.md** for this repo. 
-##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
-<h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
+**TDF Goals:**
+- Get used to getting my hands dirty! My former degree led me to being a perfectionist, but that may not be possible in this program.
+- Start with the most intimidating project first! I want to become comfortable exploring new software and machinery offered through MDes.
+- Make something quirky every week! I used to toil over math homework to make time for creativity, and now my entire program revolves around it -- it's a privilege!
 
-### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
----
-# Example Report 1 - Week of 08/21/2023 #
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+**Foresight:** Earning my PhD in Educational Technologies and either teaching at a university or moving into industry as a researcher!📚
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
+**Research topics:** Adult Education, Curriculum Design, Educational Technologies, Currere (connection between subject and self)
 
----
+**Curiosities:**
+- Answering the question of the modern student: *when will I use this in the real world?*
+- Exploring emerging technologies and digital media tools that could be integrated into classrooms
+- Figuring out how students/learners can express their identity in their education
+- Building learning environments that foster creativity while still meeting educational objectives
+- Improving online documentation for self expression and knowledge-sharing
 
-or, if you prefer, you can create separate files and link to them here, like so:
+**Strengths:**
+- Lists are my jam. I am a procedural person and like to zoom out and see the bigger picture of a project.
+- I *love* documentation! Despite my math degree never truly requiring writing assignments, I enjoyed reflecting on my courses and thinking about abstract ways that my lectures connected to my passions in design.
+- I'm a strong advocate of professional development tools/frameworks. As a Native American woman in STEM, having mentorship to formally express my passions helped me reach my goals -- and now I want to build those tools for others' self-actualization as well.
+</details>
 
----
-[Example Report 1](weekly-reports/example-report-1.md)
----
+# Let's get started!🤩
 
-Either way, it's time to start making this space your own! If you want to save these instructions -- Don't worry, I already copied them over to another file for you [here.](welcomeREADME.md) So feel empowered to delete everything in this README.md and start documenting! 
-
-sparkles,
-
-your TDF TA, shm :sparkles:
-
-PS: let me know if you have any questions!!
-
---- 
-PPS: 
-## Quick Links, compiled here for your convenience: ##
-
-- [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
-- [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
-- [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
-
+📌 [8/24-8/31 Report](weekly-reports/example-report-1.md)
 
