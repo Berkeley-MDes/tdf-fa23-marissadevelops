@@ -34,7 +34,7 @@ From there, I tried to switch gears and consider a more general population of us
  
 This list led me to thinking, what would hold the phone in place? From what I have available at home, I'd just slap a rubber band around the phone + stand and call it good, but that's not manageable for a user since it would be in the way of the screen. So some sort of clasp that holds onto the edges without intersecting the lock/volume buttons?
 
-**Now let's consider accessibility!**
+**Let's consider accessibility!**
 One of the lecturers mentioned how although there are a lot of online resources available for learning emerging technologies, they may have implicit biases that we then inherit. So in terms of the phone stand prototype, are we, as designers, assuming...
 
 - User environment
@@ -46,9 +46,31 @@ The provided visuals for the slides were informative too. The 3-dimensional plot
 
 There was a great anecdote mentioned as well. Architects know they're going to create a building, but we, as designers, cannot guarantee the tangible form of a design process like they can. Our job title does not promise an outcome, our actions do.
 
-**Now for the scary part: Rhino + Grasshopper.** It only feels intimidating because I've never worked in a CAD software before, but I'm going to make sure to explore some general Rhino tutorials to at least feel comfortable navigating the program. The next step is checking out the prototype documents that were shared with us and tinkering with them. 
+### Now for the scary part: Rhino + Grasshopper. 
 
-Hindsight as I prepare for this step: I want to do more than just print the original design. I don't have the skills to build something from scratch in Rhino, but I *really* want to try out Grasshopper because messing with parameters that automatically update the design seems more manageable. I also recognize that as I prepare for my own prototype, I keep thinking about my lacking skillsets in CAD software to 3D print and lack of know-how for Adobe Illustrator to laser cut.😓 This makes me want to shy away from building my own design, but I must conquer the anxiety in order to try out cool ideas!
+It only feels intimidating because I've never worked in a CAD software before, but I'm going to make sure to explore some general Rhino tutorials to at least feel comfortable navigating the program. The next step is checking out the prototype documents that were shared with us and tinkering with them. 
+
+Foresight as I prepare for this step: I want to do more than just print the original design. I don't have the skills to build something from scratch in Rhino, but I *really* want to try out Grasshopper because messing with parameters that automatically update the design seems more manageable. I also recognize that as I prepare for my own prototype, I keep thinking about my lacking skillsets in CAD software to 3D print and lack of know-how for Adobe Illustrator to laser cut.😓 This makes me want to shy away from building my own design, but I must conquer the anxiety in order to try out cool ideas!
+
+Since the *CD_files* folder contained a lot of file formats, I googled what [files are supported in Rhino 7](https://3danz.com/pages/supported-file-formats-in-rhino-7) to figure out what the files contained. I started with opening the *CellPhoneStandModel_All.gh* document. There may be some other plugins I have to install, although the Rhino+Grasshopper file seems to be functioning fine. We will see.
+
+**Process + curiosities while exploring the file:**
+
+- Lots to explore! Started at the top left of the document.
+- Started with the floor model for the activity; inputs included: xyz orientation for camera, width/length, panels for processing iamges, and number types.
+- Similar construction for the student model; inputs included: xyz orientation for camera, width/height, viewpoint, cloud point activity (possibly related to tracked range of motion that was mentioned in lecture?)
+- More parameters for construction of the phone model; inputs included: xyz orientation for camera, width/length/corner radius/thickness/tolerance, phone table offset, phone camera lens, phone camera view, 
+- Tinkered with the settings for phone dimensions; the phone stand outline turned red if I changed settings that didn't meet the parameters of the stand. It was sort of awkward having to re-orient the camera whenever I changed the dimensions though. Also messed with the phone viewing angle parameters.
+- Hey! Changing the viewing orientation to landscape moved the phone to the direction I needed for my prototype (ie, having different orientations based on the social media platform the video was being shared to). The stand became red though since the phone was outside of the parameters.
+<img width="437" alt="Vertical phone orientation" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/5ef8620b-f78e-446b-a38f-6a91ff46e4a4">
+
+❗The parameters visible in this image are called the frustum: the portion of a cone or pyramid which remains after its upper part has been cut off by a plane parallel to its base, or which is intercepted between two such planes. This is why we defined the dimensions of the camera lens/view. *This made my math brain very happy.*
+
+- From all of those inputs, there's a tree that merges the phone components together!
+- I may have found the switches for the model to indicate any errors: `if(x=0,inside,if(x=1,intersecting,outside))` defines the swatch colors for the phone stand.
+- After a long journey, there are functions for bool statements relating to errors and such, assumingly leading to the final output of the generated CAD model in Rhino.
+
+That was a lot, but I feel better having explored Grasshopper for myself. Looking forward to lecture on Monday!😄
 
 ---
 **Back to [README.md](../README.md)!**
