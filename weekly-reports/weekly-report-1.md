@@ -1,8 +1,9 @@
 # Weekly Report 1: 08/24 - 8/31
 
-I must inform you, with my PhD goals lingering in the back of my head -- wondering what a *truly engaging* learning environment looks like for adult students -- I am often viewing my educational experience through two lenses as both a student and future educator. I think MDes is the perfect case study for looking at a brand new program, seeing what it means to give students autonomy and flexibility in their curriculum, and to challenge the status quo of common andragogical standards at a renowned research institution. What tools are we using, how were they introduced to us, what feedback have I heard from peers, how extensive is documentation for the course, do students *use* that documentation, etc... **This goal may prove to be exhausting, but I want to build my tolerance for discomfort early on if I want to write a dissertation, so here I go.** 📚💪
-___
-Considering my background is in STEM education: yes, the syllabus is my holy grail. I love the first day of class because we get to go over course expectations and curriculum! There are also motivational breadcrumbs sprinkled throughout the seminar. Here are some of my notes from our lecture on 8/24. 
+I must inform you, with my PhD goals lingering in the back of my head, I am often viewing my educational experience through two lenses as both a student and future educator. I think MDes is the perfect case study for looking at a brand new program, seeing what it means to give students autonomy and flexibility in their curriculum, and to challenge the status quo of common andragogical standards at a renowned research institution. What tools are we using, how were they introduced to us, what feedback have I heard from peers, how extensive is documentation for the course, do students *use* that documentation, etc... **This goal may prove to be exhausting, but I want to build my tolerance for discomfort early on if I want to write a dissertation, so here I go.** 📚💪
+
+<details><summary>Class Orientation Reflections 📑 </summary>
+Considering my background is in STEM education: yes, the syllabus is my holy grail. I love the first day of class because we get to go over course expectations and curriculum! There are also motivational breadcrumbs sprinkled throughout the seminar. Here are some of my written notes from our lecture on 8/24. 
 >[!NOTE]
 >Transcribing hand-written notes (although I love analog) will not be conducive to contributing towards our personal AI model at the end of the semester. I'll be transitioning to my macbook because time is of the essence. I'll make sure to still experiment with physical sketching/ideation methods and submit them here though.📝
 
@@ -15,8 +16,10 @@ Considering my background is in STEM education: yes, the syllabus is my holy gra
 - An instructional method I've never seen before: offering difficulty levels for projects.
   - This ties back to student autonomy and letting them determine how intense they structure their semester.
 - This class trains us to cultivate a prototyping mindset and take risks! I am honestly not used to this, I used to write math proofs that were due twice a month and I had weeks at a time to perfect them. I recognize now that there was a level of complacency I grew accustomed to in my math courses over the years, but now it's time to be curious and nervous and feel all of the feelings!
+</details>
 
 ---
+
 ## Project 1: Computational Design
 The initial onboarding for the class did feel a bit overwhelming, but I expected that and it is probably the natural reaction towards the transition into graduate school. Once I got everything set up with my Wiki page I felt better prepared to start the journey of documenting my progress.
 
@@ -71,6 +74,29 @@ Since the *CD_files* folder contained a lot of file formats, I googled what [fil
 - After a long journey, there are functions for bool statements relating to errors and such, assumingly leading to the final output of the generated CAD model in Rhino.
 
 That was a lot, but I feel better having explored Grasshopper for myself. Looking forward to lecture on Monday!😄
+
+**Into Jacob's Hall to try out the laser cutter!**
+
+I tried to modify the file in Rhino + Grasshopper, but there are some incompatibilities with my laptop to use the remote control panel. My reservation appointment was coming up very soon so I decided to modify the phone stand directly in Adobe Illustrator.
+
+- I knew my phone was too wide for the phone insert based on testing out the prototypes in lecture last week, so I widened the phone insert.
+- I wanted the design to allow for orienting the phone horizontally and vertically (initially did not have time to modify the prototype for this).
+
+1. I made my first prototype using deep engraved acrylic! Since the material was 1/8" instead of 1/4", the gaps on the prototype were too wide once I put the phone stand together.
+2. I didn't have any more of this beautiful material available, so I wanted to just find material to fill the gap; ended up using black electrical tape. I asked Gary about different solutions and he told me I should modify the file and try again. Although I wanted the path of least resistance, I made another attempt!
+3. After runnning into Chris and telling him my process -- mainly that I didn't want to mix wooden material with the acrylic for my prototype -- he said that there is nothing wrong with mixing materials and it's a part of the process. I told him I wanted to paint the wooden material black if I made it again, to which he told me *paint is for protection*. Dor has said something similar in her lectures. So I will accept not having an aeshthetically-driven prototype.
+4. Chris recommended that I minimize the gaps of the phone stand in Adobe Illustrator by about half the width.
+   - Collecting measurements:
+     - PHONE HOLDER DEPTH: 0.8" ➡️ Make phone holder depth 0.7" (my phone is 0.5" and I want room to adjust angles)
+     - SEGMENT SLOTS: 0.5" ➡️ Make slots 0.25"
+     - SEGMENT HEIGHT: 0.5" ➡️ Make segments 0.25"
+5. I also removed the overhang of the phone holder in the Illustrator file so I could hold my phone vertically!😄
+
+     Here are my adjustments to the Illustrator file:
+       <img width="573" alt="Phone Stand components" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/b9b775d1-695d-4cb5-86a8-8702ae5767c3">
+
+>[!NOTE]
+> Deeply hoping I corrected the measurements right the first time for my next laser cut session!!!
 
 ---
 **Back to [README.md](../README.md)!**
