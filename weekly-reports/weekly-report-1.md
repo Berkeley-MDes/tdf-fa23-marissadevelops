@@ -4,6 +4,7 @@ I must inform you, with my PhD goals lingering in the back of my head, I am ofte
 
 <details><summary>Class Orientation Reflections 📑 </summary>
 Considering my background is in STEM education: yes, the syllabus is my holy grail. I love the first day of class because we get to go over course expectations and curriculum! There are also motivational breadcrumbs sprinkled throughout the seminar. Here are some of my written notes from our lecture on 8/24. 
+
 >[!NOTE]
 >Transcribing hand-written notes (although I love analog) will not be conducive to contributing towards our personal AI model at the end of the semester. I'll be transitioning to my macbook because time is of the essence. I'll make sure to still experiment with physical sketching/ideation methods and submit them here though.📝
 
@@ -35,8 +36,6 @@ From there, I tried to switch gears and consider a more general population of us
   - Often recording at different angles, need to be able to hold the phone in place without it slipping
   - Users are often on-the-go and can't afford something clunky -- especially for younger generations, it may even be *embarassing* to look like they're doing anything that isn't nonchalant
  
-This list led me to thinking, what would hold the phone in place? From what I have available at home, I'd just slap a rubber band around the phone + stand and call it good, but that's not manageable for a user since it would be in the way of the screen. So some sort of clasp that holds onto the edges without intersecting the lock/volume buttons?
-
 **Let's consider accessibility!**
 One of the lecturers mentioned how although there are a lot of online resources available for learning emerging technologies, they may have implicit biases that we then inherit. So in terms of the phone stand prototype, are we, as designers, assuming...
 
@@ -55,9 +54,9 @@ It only feels intimidating because I've never worked in a CAD software before, b
 
 Foresight as I prepare for this step: I want to do more than just print the original design. I don't have the skills to build something from scratch in Rhino, but I *really* want to try out Grasshopper because messing with parameters that automatically update the design seems more manageable. I also recognize that as I prepare for my own prototype, I keep thinking about my lacking skillsets in CAD software to 3D print and lack of know-how for Adobe Illustrator to laser cut.😓 This makes me want to shy away from building my own design, but I must conquer the anxiety in order to try out cool ideas!
 
-Since the *CD_files* folder contained a lot of file formats, I googled what [files are supported in Rhino 7](https://3danz.com/pages/supported-file-formats-in-rhino-7) to figure out what the files contained. I started with opening the *CellPhoneStandModel_All.gh* document. There may be some other plugins I have to install, although the Rhino+Grasshopper file seems to be functioning fine. We will see.
+Since the *CD_files* folder contained a lot of file formats, I googled what [files are supported in Rhino 7](https://3danz.com/pages/supported-file-formats-in-rhino-7) to figure out what the files contained. I started with opening the *CellPhoneStandModel_All.gh* document.
 
-**Process + curiosities while exploring the file:**
+**Tinkering with the files:**
 
 - Lots to explore! Started at the top left of the document.
 - Started with the floor model for the activity; inputs included: xyz orientation for camera, width/length, panels for processing iamges, and number types.
@@ -75,7 +74,7 @@ Since the *CD_files* folder contained a lot of file formats, I googled what [fil
 
 That was a lot, but I feel better having explored Grasshopper for myself. Looking forward to lecture on Monday!😄
 
-**Into Jacob's Hall to try out the laser cutter!**
+### Into Jacob's Hall to try out the laser cutter!
 
 I tried to modify the file in Rhino + Grasshopper, but there are some incompatibilities with my laptop to use the remote control panel. My reservation appointment was coming up very soon so I decided to modify the phone stand directly in Adobe Illustrator.
 
@@ -83,8 +82,11 @@ I tried to modify the file in Rhino + Grasshopper, but there are some incompatib
 - I wanted the design to allow for orienting the phone horizontally and vertically (initially did not have time to modify the prototype for this).
 
 1. I made my first prototype using deep engraved acrylic! Since the material was 1/8" instead of 1/4", the gaps on the prototype were too wide once I put the phone stand together.
-2. I didn't have any more of this beautiful material available, so I wanted to just find material to fill the gap; ended up using black electrical tape. I asked Gary about different solutions and he told me I should modify the file and try again. Although I wanted the path of least resistance, I made another attempt!
-3. After runnning into Chris and telling him my process -- mainly that I didn't want to mix wooden material with the acrylic for my prototype -- he said that there is nothing wrong with mixing materials and it's a part of the process. I told him I wanted to paint the wooden material black if I made it again, to which he told me *paint is for protection*. Dor has said something similar in her lectures. So I will accept not having an aeshthetically-driven prototype.
+<img height="400" alt="phone stand prototype 1 issue" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/e660af2f-8c8d-415d-abbe-bd2d5b65d053">
+<img height="400" alt="phone stand prototype 1 issue (2)" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/83e74c92-dbb0-419a-9907-362d3230f794">
+
+2. I didn't have any more of this beautiful material available, so I wanted to just fill the gap with black electrical tape to make the prototype useable. I asked Gary about different solutions and he told me I should modify the file and try again. Cody also told me that adding the black electrical tape is just a band-aid to a larger structural problem. Although I wanted the path of least resistance, I made another attempt!
+3. After running into Chris and telling him my process as well -- mainly that I didn't want to mix wooden material with the acrylic for my prototype -- he said that there is nothing wrong with mixing materials and it's a part of the process. I told him I wanted to paint the wooden material black if I made it again, to which he told me *paint is for protection*. Dor has said something similar in her lectures. So I will accept not having an aeshthetically-driven prototype.
 4. Chris recommended that I minimize the gaps of the phone stand in Adobe Illustrator by about half the width.
    - Collecting measurements:
      - PHONE HOLDER DEPTH: 0.8" ➡️ Make phone holder depth 0.7" (my phone is 0.5" and I want room to adjust angles)
@@ -92,11 +94,30 @@ I tried to modify the file in Rhino + Grasshopper, but there are some incompatib
      - SEGMENT HEIGHT: 0.5" ➡️ Make segments 0.25"
 5. I also removed the overhang of the phone holder in the Illustrator file so I could hold my phone vertically!😄
 
-     Here are my adjustments to the Illustrator file:
-       <img width="573" alt="Phone Stand components" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/b9b775d1-695d-4cb5-86a8-8702ae5767c3">
+Here are my adjustments to the Illustrator file:
+
+<img height="573" alt="Phone Stand components" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/b9b775d1-695d-4cb5-86a8-8702ae5767c3">
 
 >[!NOTE]
 > Deeply hoping I corrected the measurements right the first time for my next laser cut session!!!
+
+Some issues/improvements with the second print:
+
+- Due to only using Illustrator, I didn't have leveled segment slots for one of the pieces; Grasshopper would've provided more accuracy.
+
+<img height="400" alt="phone stand prototype 2 component issue" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/0ea46bbd-191d-450f-9ba3-898b9b7d4c31">
+<img height="400" alt="phone stand prototype 2 component issue" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/e6730d41-3d1a-44f0-8931-eeac2aaad1f9">
+
+- Despite the level issue, the slots fit much tighter to the base components though :-)
+- I removed the overhang of the original phone stand design so that I could have vertical phone orientation.
+
+I did one more round to fix the uneven base component and it went great!
+
+<img height="400" alt="phone stand prototype 3" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/90bfebb8-9597-4d24-8ffc-106502e6e774">
+
+And here is the prototype comparison! I am so proud of my progress.🙂
+
+<img height="400" alt="phone stand prototype comparison" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/8e69d11d-db59-4d03-9c43-31c1f3fd9bc3">
 
 ---
 **Back to [README.md](../README.md)!**
