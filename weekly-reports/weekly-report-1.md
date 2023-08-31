@@ -1,6 +1,6 @@
 # Weekly Report 1: 08/24 - 8/31
 
-I must inform you, with my PhD goals lingering in the back of my head, I am often viewing my educational experience through two lenses as both a student and future educator. I think MDes is the perfect case study for looking at a brand new program, seeing what it means to give students autonomy and flexibility in their curriculum, and to challenge the status quo of common andragogical standards at a renowned research institution. What tools are we using, how were they introduced to us, what feedback have I heard from peers, how extensive is documentation for the course, do students *use* that documentation, etc... **This goal may prove to be exhausting, but I want to build my tolerance for discomfort early on if I want to write a dissertation, so here I go.** 📚💪
+I must inform you, with my PhD goals lingering in the back of my head, I am often viewing my educational experience through two lenses as both a student and future educator. I think MDes is the perfect case study for looking at a brand new program, seeing what it means to give students autonomy and flexibility in their curriculum, and to challenge the status quo of common andragogical standards at a renowned research institution. What tools are we using, how were they introduced to us, what feedback have I heard from peers, how extensive is documentation for the course, do students *use* that documentation, what documentation styles are students using, etc... I will find a way to feed two birds with one scone.
 
 <details><summary>Class Orientation Reflections 📑 </summary>
 Considering my background is in STEM education: yes, the syllabus is my holy grail. I love the first day of class because we get to go over course expectations and curriculum! There are also motivational breadcrumbs sprinkled throughout the seminar. Here are some of my written notes from our lecture on 8/24. 
@@ -24,10 +24,14 @@ Considering my background is in STEM education: yes, the syllabus is my holy gra
 ## Project 1: Computational Design
 The initial onboarding for the class did feel a bit overwhelming, but I expected that and it is probably the natural reaction towards the transition into graduate school. Once I got everything set up with my Wiki page I felt better prepared to start the journey of documenting my progress.
 
-We were introduced to a sample problem: constructing a phone stand. My mind immediately went to this thought: how can I use this for my YouTube videos and Instagram reels? I felt guilty at first when wanting to meet my own needs, but I suppose I am also an end-user for products? 
+<details><summary>August 24th Lecture: User Needs, Accessibility, Environment 🔎 </summary>
+We were introduced to a sample problem of constructing a phone stand.   
+
+My mind immediately went to this thought: how can I use this phone stand for my YouTube videos and Instagram reels? I felt guilty at first when wanting to meet my own needs, but I suppose I am also an end-user for products? 
 
 From there, I tried to switch gears and consider a more general population of users beyond myself: Gen Z content creators. Something that both they and I have in common is needing a product that supports multiple formats for holding a phone. Different social platforms require different parameters.
 
+**Expected digital environments for product users:**
 - YouTube
   - Video format is typically horizontal orientation for long-form videos
   - Still shots (AKA b-roll) for transitions
@@ -47,12 +51,13 @@ One of the lecturers mentioned how although there are a lot of online resources 
 The provided visuals for the slides were informative too. The 3-dimensional plotted graph that tracked range of motion for a user really caught my eye. There are geometric capabilities beyond free range sketching during the ideation process. There are computational tools that can contribute to the design as well (all of my years in math and I finally get to see a technology application!)
 
 There was a great anecdote mentioned as well. Architects know they're going to create a building, but we, as designers, cannot guarantee the tangible form of a design process like they can. Our job title does not promise an outcome, our actions do.
+</details>
 
-### Now for the scary part: Rhino + Grasshopper. 
+<details><summary>Pre-Project Content: Exploring Rhino + Grasshopper 💻 </summary>
 
 It only feels intimidating because I've never worked in a CAD software before, but I'm going to make sure to explore some general Rhino tutorials to at least feel comfortable navigating the program. The next step is checking out the prototype documents that were shared with us and tinkering with them. 
 
-Foresight as I prepare for this step: I want to do more than just print the original design. I don't have the skills to build something from scratch in Rhino, but I *really* want to try out Grasshopper because messing with parameters that automatically update the design seems more manageable. I also recognize that as I prepare for my own prototype, I keep thinking about my lacking skillsets in CAD software to 3D print and lack of know-how for Adobe Illustrator to laser cut.😓 This makes me want to shy away from building my own design, but I must conquer the anxiety in order to try out cool ideas!
+Foresight as I prepare for this step: I want to do more than just print the original design. I don't have the skills (yet) to build something from scratch in Rhino, but I *really* want to try out Grasshopper because messing with parameters that automatically update the design seems more manageable. I also recognize that as I prepare for my own prototype, I keep thinking about my lacking skillsets in CAD software to 3D print and lack of know-how for Adobe Illustrator to laser cut.😓 This makes me want to shy away from building my own design, but I must conquer the anxiety in order to try out cool ideas!
 
 Since the *CD_files* folder contained a lot of file formats, I googled what [files are supported in Rhino 7](https://3danz.com/pages/supported-file-formats-in-rhino-7) to figure out what the files contained. I started with opening the *CellPhoneStandModel_All.gh* document.
 
@@ -73,8 +78,11 @@ Since the *CD_files* folder contained a lot of file formats, I googled what [fil
 - After a long journey, there are functions for bool statements relating to errors and such, assumingly leading to the final output of the generated CAD model in Rhino.
 
 That was a lot, but I feel better having explored Grasshopper for myself. Looking forward to lecture on Monday!😄
+</details>
 
-### Into Jacob's Hall to try out the laser cutter!
+<details><summary>Laser Cutting Process: Prototyping and Iteration💡</summary>
+
+### Prototype 1️⃣
 
 I tried to modify the file in Rhino + Grasshopper, but there are some incompatibilities with my laptop to use the remote control panel. My reservation appointment was coming up very soon so I decided to modify the phone stand directly in Adobe Illustrator.
 
@@ -94,12 +102,13 @@ I tried to modify the file in Rhino + Grasshopper, but there are some incompatib
      - SEGMENT HEIGHT: 0.5" ➡️ Make segments 0.25"
 5. I also removed the overhang of the phone holder in the Illustrator file so I could hold my phone vertically!😄
 
+### Prototype 2️⃣
 Here are my adjustments to the Illustrator file:
 
 <img height="573" alt="Phone Stand components" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/b9b775d1-695d-4cb5-86a8-8702ae5767c3">
 
 >[!NOTE]
-> Deeply hoping I corrected the measurements right the first time for my next laser cut session!!!
+> Hoping I corrected the measurements right the first time for my next laser cut session!!! I had to use the advanced measure tool in Adobe Illustrator to make sure I was altering the design correctly. 
 
 Some issues/improvements with the second print:
 
@@ -111,6 +120,8 @@ Some issues/improvements with the second print:
 - Despite the level issue, the slots fit much tighter to the base components though :-)
 - I removed the overhang of the original phone stand design so that I could have vertical phone orientation.
 
+### Prototype 3️⃣
+
 I did one more round to fix the uneven base component and it went great!
 
 <img height="400" alt="phone stand prototype 3" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/90bfebb8-9597-4d24-8ffc-106502e6e774">
@@ -118,6 +129,25 @@ I did one more round to fix the uneven base component and it went great!
 And here is the prototype comparison! I am so proud of my progress.🙂
 
 <img height="400" alt="phone stand prototype comparison" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/8e69d11d-db59-4d03-9c43-31c1f3fd9bc3">
+</details>
+
+## Reflections
+
+📌 Despite my nerves surrounding prototyping and exploring hands-on learning, it went phenomenal -- mainly because I stayed open-minded to embracing the available resources around me while at Jacob's Hall. Bouncing ideas off of Jacob's Hall staff, faculty, and my peers was so fun. 
+
+📌 I shared a 12" x 24" plywood material with a peer as we iterated our phone stand designs. At first I was so nervous to work together and figure out the details for uploading our designs onto one document for the laser cutter software, but it was actually great. 
+
+📌 Collaboration is neat! On the final iterations of prototypes, my peer and I had individual issues we were trying to fix that the other had solved, so we were able to give advice for each other's designs. 
+
+📌 Temporary solutions to a design problem are a band-aid for structural issues! Cutting corners in design does not provide better products for its users. Cody had told me that the great thing about an iterative process is that every sample leading up to the final prototype is tangible proof of our design reasoning.
+
+## Speculations
+
+📌 Although I was able to work around technical issues and complete the project, it is not necessary to re-invent the wheel. In having to find alternative solutions for the project though, I was challenged to explore a software I had little experience with (Adobe Illustrator). Being thrown into a project is a great way for student's to test their bandwidth for the unknown through intense learning curves. **What ways can this be implemented into digital technologies? Does it always have to be a seamless experience for the user?** Consider the utility of productive struggle in educational settings. It can be healthy to feel frustrated with a topic, but to overcome the challenge and create a tangible project that reflects personal growth.
+
+📌 In terms of AI, it could be useful for generating multiple variations of the phone stand model in Rhino + Grasshopper by utilizing the remote control panel. **AI interests me due to its ability to produce abundant options quickly** -- many may not be very good, but there are diamonds in the rough that could challenge simpler variations of a given model.
+
+Thank you for the insightful first week of lecture in TDF; I learned a lot about myself!✨
 
 ---
 **Back to [README.md](../README.md)!**
