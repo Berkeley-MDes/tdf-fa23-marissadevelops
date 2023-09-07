@@ -51,3 +51,8 @@ After drafting this in Procreate on my iPad, I realized that this foldable keybo
 📌 I have regained faith in my ability to build my own computational design in Rhino + Grasshopper since watching TJ's guided tutorial and making personal connections to my pure mathematics background. I am curious in what ways I can lean on my proof-writing skills in breaking down more complex computational design patterns. 
 
 📌 After signing up for ShapeDiver and exploring the public forum, it motivated me to search for topological shapes. I think it could be a great hands-on tool for mathematics classrooms and enable students to alter the paramaters of geometric shapes! 
+
+---
+**Back to [README.md](../README.md)!**
+
+---
