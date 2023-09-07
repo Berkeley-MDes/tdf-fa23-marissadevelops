@@ -1,10 +1,10 @@
-# Some thoughts:
+# Weekly Report 2 ⭐
 
 After a frantic episode of creation last week, my former mindset started to come back (ie, minimalism). Although I prototyped 3 variations of the phone stand, I still strongly dislike the use of physical materials in testing designs. It bothers me -- the idea of being responsible for a physical object. It is why I have always been a 2-d, digital type of gal. 
 
 This motivated me to explore Rhino + Grasshopper more so that I could test variations of my designs without having to use more material; another benefit of computational design!
 
-I don't want to get burnt out on prototyping (we're only in week 3), so I decided to take a break over the weekend and slowly transition back into tutorials during the school week. I followed along with TJ's *computational design worked example* on YouTube.
+I don't want to get burnt out on prototyping (we're only in week 3), so I decided to take a break over the weekend and slowly transition back into tutorials during the school week. I followed along with TJ's *computational design worked example* on YouTube and also tried to find real-world applications of the tutorial in my daily life.
 
 <details><summary>Process: TJ's Tutorial Video</summary>
 Recall that computational design is aimed to Observe ➡️ Measure ➡️ Model ➡️ Evaluate ➡️ Fabricate ➡️ Test ↩️
