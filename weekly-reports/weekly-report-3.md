@@ -19,3 +19,16 @@ Back to the drawing board! I really wanted to focus on minimalism in my design. 
 I laser cut a 3rd prototype that had a base of about half the size and reduced the length of the upwards strips, but maintained the initial wedging build of the laser cut design. 
 
 I wanted to fix ____, so I decided to add a little star to it for my final test cut! 
+
+# Reflections
+
+📌 Seeing Cody present his work within the scope of Rhino + Grasshopper helped me feel motivated to explore the software more! My mental block still remains on the necessity of computational design for such small objects, though, compared to the intensity of modeling entire buildings. 
+
+# Speculations
+
+📌 With regard to impacting the human experience: considering my background is in education, my main takeaway from the project was reflecting on ways that skills such as laser cutting and general prototyping could be taught to people with less exposure to emerging technology. How can I package up the idea to be more accessible to broader audiences?
+
+---
+**Back to [README.md](../README.md)!**
+
+---
