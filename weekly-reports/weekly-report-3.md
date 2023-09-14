@@ -16,9 +16,15 @@ Back to the drawing board! I really wanted to focus on minimalism in my design. 
 
 <img width="700" alt="phone stand dimension comparison" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/2a9a22d7-5769-42a9-a41b-4ae1258470e9">
 
-I laser cut a 3rd prototype that had a base of about half the size and reduced the length of the upwards strips, but maintained the initial wedging build of the laser cut design. 
+I laser cut a 3rd prototype that had a base of about half the size and reduced the length of the upwards strips, but maintained the initial wedging build of the laser cut design.
 
-I wanted to fix ____, so I decided to add a little star to it for my final test cut! 
+<img width="700" alt="prototype 3" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/f43aae5c-6e19-4930-9831-2f2a34917601">
+
+My first attempt at the re-design wasn't proportioned correctly, so I tried one more time and got a working final draft!😄
+
+<img width="700" alt="prototype 4" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/926af2a6-eb7a-4690-b55d-f1d4772181d5">
+
+I'm super happy with how minimal it is and look forward to exploring more computational design without the technical difficulties.
 
 # Reflections
 
