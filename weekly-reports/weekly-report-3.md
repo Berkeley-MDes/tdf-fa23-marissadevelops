@@ -26,6 +26,8 @@ My first attempt at the re-design wasn't proportioned correctly, so I tried one 
 
 I'm super happy with how minimal it is and look forward to exploring more computational design without the technical difficulties.
 
+Furthermore, here is the [link to my YouTube video](https://youtu.be/TvY2sf0yXuo?si=JYy0ieNgz-9WwI3z) for the project.📱
+
 # Reflections
 
 📌 Seeing Cody present his work within the scope of Rhino + Grasshopper helped me feel motivated to explore the software more! My mental block still remains on the necessity of computational design for such small objects, though, compared to the intensity of modeling entire buildings. 
