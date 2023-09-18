@@ -2,6 +2,6 @@ Find my writing, reflections, and full prototyping details on Week 1-3 of the ma
 
 ---
 
-(Back to main page!)[../README.md]
+(Back to main page!)[README.md]
 
 ---
