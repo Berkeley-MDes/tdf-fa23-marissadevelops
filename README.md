@@ -30,6 +30,8 @@ After 6 years of studying math (with a bit of computer science here and there), 
 
 # Let's get started!🤩
 
+📌 [9/29-10/5 Report](weekly-reports/weekly-report-6.md)
+
 📌 [9/22-9/28 Report](weekly-reports/weekly-report-5.md)
 
 📌 [9/15-9/21 Report](weekly-reports/weekly-report-4.md)
