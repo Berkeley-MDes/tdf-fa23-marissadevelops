@@ -6,9 +6,9 @@ The process of information overload when being presented all of the proposed ide
 
 Instead, I am working in the Robotics Wire Sculpting group. I was so focused on the notion of building a digital ecosystem to create art installations that I never once considered feasability when voting for the project! It is scary to begin interacting with all of the required components across motors, robotics, microcontrollers, and sensors, but I knew that if I were in my Graduate Student Health project, that would've been well within my comfort zone. I am always obsessed with my niche topic from an educator lens, but sometimes I want to step away and just be a student in STEM. I believe that from experiencing the highs and lows of prototyping, it may actually teach me *more* about the learning experience of students than if I simply view it from a meta perspective.
 
-When I got together with my group (Matthew, Stephanie, Divya, Yoojin, Yanru), we were all generally nervous to actualzie this idea, besides Matthew, who proposed the idea in the first place! 
+When I got together with my group (Matthew, Stephanie, Divya, Yoojin, Yanru), we were all generally nervous to actualize this idea, besides Matthew, who proposed the idea in the first place! 
 
-## Some immediate challenges:
+### Some immediate challenges:
 
 - There is already a wire bender in the makerspace, *but* it has limited mobility and user interaction (ie, "Oh no, did we just sign up to re-invent the wheel?")
 - Only one of us had coding experience, one had mechanical engineering experience, and the rest of us were mainly digital designers.
@@ -23,7 +23,7 @@ The ideation was all over the place (in a good way)! We began reflecting on orie
 
 **Ideas:**
 
-Goal: Approachable installation using sensors that alters the angle at which wire exits a wire feeder, leading to a wire sculpture. 
+Goal: Approachable installation using sensors that alters the angle at which wire exits a wire feeder, leading to a curvature-based wire sculpture. 
 
 Robotic wire sculpting ideation:
 
@@ -55,13 +55,43 @@ We landed on doing two teams that could approach the same project from two diffe
 
 # Monday Lecture Reflection 10/2📚
 
+My passion for note taking in class always leaves me with gems of wisdom from our faculty.⭐📚 
+
+TJ's lecture on his experience with digital ecosystems gave me hope for my projects. Beyond the overaraching goal of viewing digital ecosystems as a collections of many tiny experiments, his metaphor for the "digital ecosystem toybox" was inspiring. I love the idea of having monthly iterations of testing cool technology, vetting it through research tasks, then adding it to the inventory of cool-things-to-be-built. 
+
+Additionally, Jeff's lecture on types of gesture recognition was amazing! I finally saw an example of machine learning through Edge Impulse and could see the ways in which a Photon2 sensor could contribute to recognizing the kinetic movements of a user.
+
+# Robotic Wire Scultures: Creation Group
+
+I would like to pat myself on the back for how much I take organized notes (only because I love to). It has been awesome to see everybody collaborate on the documents I build! Anyways... 😎
+
+After a meeting at the makerspace on Wedneday morning and one divergent thinking exercise later, we finally decided on our materials and the general approach to the project. Here they are:
+
+- Wire feeder
+- 0.8” copper wire
+- Photon 2 microcontroller with distance sensors (Closer to sensor > bigger spiral; farther from sensor > smaller spiral)
+- Curvature-inducing mechanism to guide wire and sculpt into specific shape
+  - Mechanism can rotate to change spiral diameter based on numerical input from sensors
+
+We also consulted with Jeff over a shared Slack message and he had possibly the best feedback I could've expected (which largely helped to address any last technical issues before our project submission), alongside half a dozen resources and references for us to peruse through. 
+
+My favorite pedagogical statement that Jeff told us was: In this phase of a project, I try to ask more questions than giving answers. Failure is the key.
+
+Now *that* is a good teaching style and will always stick with me as I guide students one day in their work. Independence of the learner is so valuble, while also being able to guide them towards their goal with revelant resources. It provides an environment rooted in both autonomy and collaboration.
+
+Lastly, he shared a cool resource with us that was a published thesis from MIT in 2001 on "Behavioral Kinetic Sculptures" that inspired a unique perspective in which to view our audiences interaction with the sculpture. Despite it's mechanical structure, the immediate responsive feedback with a user and their movement (ie, kinetics) enables a symbiotic relationship. I then viewed the installation as an anthropomorphic interpretation of passing the creative labor from the user to the robot, but still maintaining the users involvement by means of sensory input. Very neat.
+
+> Reas, Casey. “Behavioral Kinetic Sculpture.” Massachusetts Institute of Technology, 2001.
+
 # Reflections
 
 📌 If we are asked to propose project ideas, and we vote on what we're interested in, we will absolutely have to bring that idea to fruition. Tread lightly. 
 
+📌 My stark introduction to digital ecosystems has provided me a much broader insight to the amount of effort that goes on behind-the-scenes for interactive art installations. 
+
 # Speculations
 
-📌 
+📌 I am curious in the ways that digital ecosystems could translate to introductory-level STEM projects for undergraduate students to explore creative expression and technological literacy. Both at an aesthetic and functional level, it challenges students to consider the audience they're serving and digging deeper into the reasoning behind their prototypes. 
 
 ---
 **Back to [README.md](../README.md)!**
