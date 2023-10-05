@@ -1,4 +1,4 @@
-# Weekly Report 5: 9/28 - 10/4
+# Weekly Report 5: 9/28 - 10/5
 
 ## Thursday Lecture Reflection 9/28📚
 
@@ -72,6 +72,10 @@ After a meeting at the makerspace on Wedneday morning and one divergent thinking
 - Photon 2 microcontroller with distance sensors (Closer to sensor > bigger spiral; farther from sensor > smaller spiral)
 - Curvature-inducing mechanism to guide wire and sculpt into specific shape
   - Mechanism can rotate to change spiral diameter based on numerical input from sensors
+ 
+While in the makerspace, Matthew and I tested out the current wire feeder that Jacob's Hall owns. It is heavy duty, but definitely had limitations due to only having the ability to make sharp angles, but not curves. Additionally, it was not very transportable, nor could it feed wire from any orientation other than the x-axis.
+
+![wire feeder in Jacob's Hall](https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/d686f78c-af4b-4dea-96ea-e92d0c4609bf)
 
 We also consulted with Jeff over a shared Slack message and he had possibly the best feedback I could've expected (which largely helped to address any last technical issues before our project submission), alongside half a dozen resources and references for us to peruse through. 
 
