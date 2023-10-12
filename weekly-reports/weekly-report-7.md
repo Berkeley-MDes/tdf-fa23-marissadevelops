@@ -37,7 +37,9 @@ Additionally, I finally know how to read diagrams for connecting wires across a 
 
 ## Mid-day Wednesday Work Session 10/11
 
-The goal of this meeting was for the group to reach a consensus on our structural approach to the robotic arm. We ended up deciding to start with a lo-fi prototype using a 3d printed gear that fit with our servo motor, as well as attaching it to a base plate and hinging the "wedge" along that.
+The goal of this meeting was for the group to reach a consensus on our structural approach to the robotic arm. We ended up deciding to start with a lo-fi prototype using a 3d printed gear that fit with our servo motor, as well as attaching it to a base plate and hinging the "wedge" along that. Reference the lo-fi diagram by our in-house artist, Matthew:
+
+<img width="400" alt="lo-fi prototype diagram" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/01bcd219-72e9-4f08-84c1-6d3370800f39">
 
 Here was our plan of action:
 
@@ -46,17 +48,21 @@ Here was our plan of action:
 - attaching to base with rivet gun and fasteners
 - 3d printing gear mechanism (@Marissa)
 
-And yes, I went through a crash course in 3d-printing yesterday using the Prusa machines. It was *awesome* and I'm going to be checking out my print before class today (10/12). Fingers crossed that my quick research on the in-fill will leave us with a decent amount of resistance as we test the prototype with 1/16" wire.
+And yes, I went through a crash course in 3d-printing yesterday using the Prusa machines and Cura software. Here are the various gear components we are printing for our mini prototype:
+
+<img width="400" alt="Cura software gear components" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/46b1085c-74d3-46f0-a044-4a05261252b8">
+
+It was *awesome* and I'm going to be checking out my print before class today (10/12). Fingers crossed that my quick research on the in-fill will leave us with a decent amount of resistance as we test the prototype with 1/16" wire.
 
 # Reflections
 
-📌 
+📌 I love project planning and updating the collaborative Figma document! Lists, action items, and process timelines make the world go 'round.
 
-📌 
+📌 It has been interesting to collaborate in a team for a rather intimidating project. Although we are all a bit nervous, we are more curious and optimistic than anything. Collective mindsets truly make a difference in the integrity of shared work.
 
 # Speculations
 
-📌  
+📌  Based on my interactions with various Photon2 and kinetic-sensory components, I have started reflecting on what I'll do for my final TDF project. With my love for academia and modern learning methods in the classroom, I am curious of the ways in which I could represent student perspectives of learning through an interactive art installation in order to trigger valuable conservations on education.
 
 ---
 **Back to [README.md](../README.md)!**
