@@ -25,14 +25,28 @@ Next we tested the 1/16" wire using two chisels ((x: 0, y:0, z: 45), (x:45, y:90
 Success! It was a smooth process and provided better insight into the quality of our wire, as well as contributing to the project scope of creating an interactive, kinetic-sensory wire sculpting installation.
 
 
-## Post-Lecture Monday Night Work Session 10/10
+## Post-Lecture Monday Night Work Session 10/9
 
-In trying to manage all 3 of our schedules to find a working session, we ended on 7-9 PM after lectures, as well as working mid-afternoon on Wednesdays, and updating documentation on weekends. So after lecture on Monday, we all headed to the Jacob's Hall Makerspace to collectively test out our first 
+In trying to manage all 3 of our schedules to find a working session, we ended on 7-9 PM after lectures, as well as working mid-afternoon on Wednesdays, and updating documentation on weekends. So after lecture on Monday, we all headed to the Jacob's Hall Makerspace to collectively test out our first Photon 2 prototype using a Continuous Rotation Servo Motor with an accelerometer to test ways that we could correlate interactive movement with the rotation of the motor. We all worked on our own laptops alongside eachother and helped whenever the other one got stuck on a certain step. It made the experience of working past 9 AM much easier when it was with friends. We all got ours working and felt comfortable in exploring low-fidelity prototypes using the servo motor going forward!
 
 <img width="400" alt="Photon 2 Accelerometer tutorial" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/16a674de-9238-48a2-a452-62c4d28c2ab2">
 
+Additionally, I finally know how to read diagrams for connecting wires across a breadboard and microcontroller!!! It was very cool. :-)
+
 <img width="333" alt="Photon 2 circuit diagram" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/be84602b-14f3-4292-8a7b-267de71a0236">
 
+## Mid-day Wednesday Work Session 10/11
+
+The goal of this meeting was for the group to reach a consensus on our structural approach to the robotic arm. We ended up deciding to start with a lo-fi prototype using a 3d printed gear that fit with our servo motor, as well as attaching it to a base plate and hinging the "wedge" along that.
+
+Here was our plan of action:
+
+- Buying cabinet hinge (@Matthew), bringing metal-binding apoxy
+- Obtain metal plate (1” x 3”; bigger plate can make different alterations)(@ Divya)
+- attaching to base with rivet gun and fasteners
+- 3d printing gear mechanism (@Marissa)
+
+And yes, I went through a crash course in 3d-printing yesterday using the Prusa machines. It was *awesome* and I'm going to be checking out my print before class today (10/12). Fingers crossed that my quick research on the in-fill will leave us with a decent amount of resistance as we test the prototype with 1/16" wire.
 
 # Reflections
 
