@@ -1,4 +1,4 @@
-# Weekly Report 5: 9/28 - 10/5
+# Weekly Report 6: 9/28 - 10/5
 
 ## Thursday Lecture Reflection 9/28📚
 
