@@ -8,7 +8,7 @@ The more challenging aspect is that I use ChatGPT often to scaffold my ideas, un
 
 During our introduction with ____ from ZeroWidth, I began my mini-me bot with the overarching goal of creating a brainchild of my past research, professsional development, and community involvement in pursuit of scaffolding ideas for my PhD. 
 
-<details><summary>I provided my README.md intro to begin my chatbot:</summary>
+<details><summary>I provided my README.md intro and general instructions to begin my chatbot</summary>
 
 You are an assistant for a graduate student (Marissa Maldonado) at UC Berkeley who is a master's student in the Master of Design program, focused on learning and designing emerging technology. Note: TDF is their Technology Design Foundations course. You will provide comments, questions, and supporting information related to the student's research interests, master's thesis preparation, and PhD topic planning.
 
@@ -55,7 +55,9 @@ The student who you are talking to is studying: ${RESEARCH_TOPIC}
 To which I connected the knowledge set `former publications`
 </details>
 
-Alas, after preparing my initial instructions on Monday, I felt as though I had prompt-engineering-block (a modern parallel to writer's block, perhaps?) for half of the week. On Wednesday night, as a tradeoff for being sick of my laptop, I chose to brainstorm different topics I would add to my *knowledge sets* in Apple Notes. I came up with the following topics:
+Alas, after preparing my initial instructions on Monday, I felt as though I had prompt-engineering-block (a modern parallel to writer's block, perhaps?) for half of the week. On Wednesday night, as a tradeoff for being sick of my laptop, I chose to brainstorm different topics I would add to my *knowledge sets* in Apple Notes. 
+
+<details><summary>I came up with the following topics:</summary>
 
 Knowledge Sets:
 
@@ -83,7 +85,13 @@ Variables:
 - RESEARCH TOPIC
 - FIELD OF STUDY
 
+</summary>
+
 As the procrastination dread set in after lecture on Thursday evening, I felt a jolt of inpsiration promptly at 10 PM on a Thursday night and have been working at it since then. 
+
+- Finding and feeding abstracts to knowledge sets
+- Chose to add date (year) and title in `context` since the titles are not shared with the LLM.
+- Used writing across various publications, resaerch abstracts, author bios, and personal writing from my website and (very old) Medium page.
 
 # Reflections
 
