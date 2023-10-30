@@ -89,17 +89,17 @@ Variables:
 
 As the procrastination dread set in after lecture on Thursday evening, I felt a jolt of inpsiration promptly at 10 PM on a Thursday night and have been working at it since then. 
 
-- Finding and feeding abstracts to knowledge sets
+- Finding and feeding research abstracts to knowledge sets
 - Chose to add date (year) and title in `context` since the titles are not shared with the LLM.
-- Used writing across various publications, resaerch abstracts, author bios, and personal writing from my website and (very old) Medium page.
+- Used writing across various publications, resaerch abstracts, author bios, and personal writing from my website and (very old) Medium page as knowledge sets associated with relevant Intelligence sets.
 
 # Reflections
 
-📌 I can't blame my overanalysis for the procrastination, but I will say that with my mathematics background being in set theory and data visualization, I think I was frozen by the sheer amount of possibilities for different combinations of information. 
+📌 Still recovering from the Robotic Wire Sculpting Project, reflecting on my philosophy of education, mustering up my endless passion for learning to reflect into tangible schoolwork.🫠📚
 
 # Speculations
 
-📌 At this point I am just ideating on what I'm capable of for the remainder of the class! I am curious in what ways I can utilize more digital outputs (such as the OLED displays) to communicate input/output of the user through kinesthetic emerging technology pieces.
+📌 Wondering how I can use this AI bot to scaffold my PhD topic ideas using various conversations with faculty, former/current research interests, and available resources
 
 ---
 **Back to [README.md](../README.md)!**
