@@ -79,6 +79,59 @@ Next, I will be feeding it the MDes curriculum and courses I took this semester.
 
 I want to use my chatbot to help me outline notes for a YouTube video and try to follow it while recording. I'm curious if it will take away my humanity or not (lol).
 
+Right after I wrote this comment, I wanted to check one last thing before leaving for class. 
+
+**I asked the chatbot: I, Marissa Maldonado, also make online educational content for my YouTube Channel . Could you give me a summarized topic outline of how I'd share these topics in a long-form video?**
+
+<details><summary>🤖 AI response:</summary>
+Certainly, Marissa! Here's a thematic breakdown for a long-form YouTube video:
+
+Title: Exploring Gesture Recognition in Adult Learning Spaces
+
+Introduction (2-3 mins):
+
+Briefly introduce yourself and your research interest in adult education, makerspaces, and emerging technologies.
+State the central theme: Exploring the role of gesture recognition in adult learning environments.
+Explain why you chose the topic and its relevance in the study of adult education.
+
+Background Context (5 mins):
+
+Definition and importance of gesture recognition.
+Discuss the concept and genesis of makerspaces.
+Link adult education, makerspaces, and gesture recognition to explain why combining these elements together is insightful and valuable.
+
+Gesture Recognition & Its Implications on Adult Learning (10 mins):
+
+Discuss gesture recognition technology and how it operates.
+Share the potential applications of gesture recognition in an adult learning environment.
+Discuss the possible correlation between specific gestures and cognitive processes (e.g., problem-solving, conceptual understanding).
+
+Research Results and Observations (15 mins):
+
+Share specifics of your study, the methods used, and the observations made.
+Discuss significant results, what gestures indicated learning progression, patterns observed, and any interesting or unexpected outcomes.
+
+Impacts on Curriculum Design (10 mins):
+
+Discuss how the insights gained from gestures can inform future curriculum design in adult education.
+Share potential changes in resource arrangement, intervention strategies, or feedback mechanisms.
+
+Real-World Applications (10 minutes):
+
+Explain how your research can be applied in real-world scenarios.
+Delve into how these findings can create more effective learning environments and teaching methodologies.
+Discuss potential developments like a real-time feedback system based on gesture analysis.
+
+Conclusion (2-3 mins):
+
+Summarize the main points of the video.
+Discuss the potential for future investigation and advancements in your research field.
+End with a call to action, encouraging viewers to learn more, share their thoughts or experiences, or engage with your work.
+Bear in mind that this timeline can be adjusted based on the level of detail in each section and your audience's engagement level. Using visuals and real-life examples in each section can help communicate complex ideas and keep your audience engaged.
+</details>
+
+I meant for it to talk about my research interests more than my PhD interests since I am just entering this atmosphere. I'll try again soon!
+
 # Reflections
 
 📌 
