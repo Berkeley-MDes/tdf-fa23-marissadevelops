@@ -85,7 +85,7 @@ Variables:
 - RESEARCH TOPIC
 - FIELD OF STUDY
 
-</summary>
+</details>
 
 As the procrastination dread set in after lecture on Thursday evening, I felt a jolt of inpsiration promptly at 10 PM on a Thursday night and have been working at it since then. 
 
