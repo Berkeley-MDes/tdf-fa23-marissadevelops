@@ -15,7 +15,7 @@ I am unsure the best way to document my conversations with my bot, but here is t
 
 <img width="558" alt="Asking AI bot what Marissa Maldonado believes in" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/475a44d3-26d0-4aca-b43c-288272288fdd">
 
-<details><summary>AI response:</summary>
+<details><summary>🤖 AI response:</summary>
 
 Based on the information provided, Marissa Maldando's believes in:
 
@@ -34,9 +34,9 @@ Integrating Emerging Technologies: She is curious about the different emerging t
 Adult Education: Her research is focused on the learning sciences of makerspaces for adult learners, highlighting her belief in lifelong learning and the potential for adults to continue learning and evolving in their knowledge and skills.
 </details>
 
-I responded: How could Marissa integrate her interests of Makerspaces and Adult Education into a PhD topic in the Learning Sciences?
+**I responded: How could Marissa integrate her interests of Makerspaces and Adult Education into a PhD topic in the Learning Sciences?**
 
-<details><summary>AI response:</summary>
+<details><summary>🤖 AI response:</summary>
 Marissa's interests in Makerspaces, Adult Education, and Learning Sciences present a unique combination conducive to a rich and multifaceted PhD research topic. Here are a few possibilities:
 
 Curriculum Design for Makerspaces in Adult Education: Marissa could conduct research aiming to create a comprehensive, context-sensitive curriculum specifically tailored for adult learners in makerspaces. This would involve investigating the unique challenges and opportunities of teaching adults, understanding the pedagogical methods that work best within makerspaces, and understanding how to balance between creative freedom and structured learning.
@@ -52,9 +52,9 @@ Analysis of Online Documentation and Knowledge-Sharing in Makerspaces: Investiga
 In choosing a topic from these or deriving her unique question, Marissa should consider the potential for original contributions, scope for long-term study, and alignment with her career aspirations, be it academia or industry research.
 </details>
 
-I responded: I am Marissa; I have been thinking about ways that gesture recognition during semi-structured interviews with adult learners could contribute to my research interests. I would be recording and analyzing their gestures during hands-on course projects exploring emerging technologies. I want to explore the learning happening "beneath the surface".
+**I responded: I am Marissa; I have been thinking about ways that gesture recognition during semi-structured interviews with adult learners could contribute to my research interests. I would be recording and analyzing their gestures during hands-on course projects exploring emerging technologies. I want to explore the learning happening "beneath the surface".**
 
-<details><summary>AI response:</summary>
+<details><summary>🤖 AI response:</summary>
 That sounds like a highly innovative and integrative approach to your research, Marissa! Here are a couple of ways to shape your PhD topic around gesture recognition in the context of adult learning in makerspaces:
 
 Gestures as Indicators of Learning Progress: You could propose a study that treats adult learners' gestures during their work with emerging technologies as non-verbal cues of their learning progression. How does a learner's manipulation of tools change as their understanding deepens? What might their hand movements and interactions with technology say about their comprehension and skills?
