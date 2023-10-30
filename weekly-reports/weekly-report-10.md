@@ -12,6 +12,7 @@ Here are the Instructions I fed it so far:
   - Connected knowledge set: Former Publications
 
 I am unsure the best way to document my conversations with my bot, but here is the welcome message I integrated and my opening question:
+
 <img width="558" alt="Asking AI bot what Marissa Maldonado believes in" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/475a44d3-26d0-4aca-b43c-288272288fdd">
 
 <details><summary>AI response:</summary>
