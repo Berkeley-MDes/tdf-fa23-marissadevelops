@@ -153,6 +153,11 @@ Some issues I noticed:
 
 ---
 
+I also switched laptops with a peer in class to test eachother's AI bots (shoutout to Kurk)! 
+
+Whereas a PhD student immediately asked the bot how long I'd been doing research and what the topics were on, my peer in MDes immediately asked about my course projects, what I've learned from them, and any struggles I had with TDF so far. The tea is: I have only been feeding my chatbot information related to my research/publication interests, and nothing related to TDF lol. Considering my extensive wiki documentation, I should probably add that before the due date on Thursday.🧐
+
+---
 
 
 # Reflections
