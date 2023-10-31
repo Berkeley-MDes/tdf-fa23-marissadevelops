@@ -132,6 +132,29 @@ Bear in mind that this timeline can be adjusted based on the level of detail in 
 
 I meant for it to talk about my research interests more than my PhD interests since I am just entering this atmosphere. I'll try again soon!
 
+---
+
+Next, I asked a PhD student in Math Education to ask questions to my chatbot! 
+
+They asked:**what is she researching?**
+
+To  which my passionate AI bot gave them a tedious, detailed response (similar to what I've shown previously).
+
+Then, they said: **That was long. Can you summarize it in four sentences?**
+
+To which the AI 🤖 responded: Certainly. Marissa Maldonado's research interests delve into the intersection of technology and adult education, particularly in curriculum design. She is keen on exploring the usage of emerging technologies and digital media tools in the classroom circles. She also focuses on enabling learners to express their identity in their education and improving online documentation for knowledge-sharing. Lastly, her work emphasizes the significance of integrating real-world project experiences into traditional education systems.
+
+My peer was impressed with the detail and noted that it was dissappointing that their students can't summarize their work as well as an AI chatbot (lol, I empathize with this as an educator). 
+
+Some issues I noticed:
+
+- The AI bot did not decifer between my personal articles (added through my my Personal Philosophy knowledge set) and professional publications (through my Research Publications knowledge set), which made my bio look less academic.
+- I have research abstracts in my knowledge set, but no details on methods, duration of the project, or collaborators. I was watching my peer fill out the message and they were immediately going to ask how long I've been in research, to which I interjected and said that I hadn't given it a timeline.
+
+---
+
+
+
 # Reflections
 
 📌 
