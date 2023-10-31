@@ -149,7 +149,7 @@ My peer was impressed with the detail and noted that it was dissappointing that 
 Some issues I noticed:
 
 - The AI bot did not decifer between my personal articles (added through my my Personal Philosophy knowledge set) and professional publications (through my Research Publications knowledge set), which made my bio look less academic.
-- I have research abstracts in my knowledge set, but no details on methods, duration of the project, or collaborators. I was watching my peer fill out the message and they were immediately going to ask how long I've been in research, to which I interjected and said that I hadn't given it a timeline.
+- I have research abstracts in my knowledge set, but no details on methods, duration of the project, or collaborators. I was watching my peer fill out the message and they were immediately going to ask how long I've been in research, to which I interjected and said that I hadn't given it a timeline. Afterwards, I went in and added the date, location, and supervisor for each of my projects.
 
 ---
 
