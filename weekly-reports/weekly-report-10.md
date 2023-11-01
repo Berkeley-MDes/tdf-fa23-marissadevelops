@@ -159,6 +159,12 @@ Whereas a PhD student immediately asked the bot how long I'd been doing research
 
 ---
 
+I continued adding information to my knowledge sets, including the MDes Curriculum, my fall 2023 course descriptions, skills I gained, and projects we've worked on, as well as my observations from each course. 
+
+I also began a Figma diagram to visualize the Intelligence, instruction, and knowledge sets for my video.
+
+---
+
 
 # Reflections
 
