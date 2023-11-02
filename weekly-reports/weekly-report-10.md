@@ -163,7 +163,11 @@ I continued adding information to my knowledge sets, including the MDes Curricul
 
 I also began a Figma diagram to visualize the Intelligence, instruction, and knowledge sets for my video.
 
+Update: bailed on the figma diagram, wasn't pretty lol. Just made a table in my video instead.
+
 ---
+
+I finally tested out the temperature settings for my chatbot. The standard value was 0.8, which gave generally accurate results. but sometimes tedious and off-topic (based on the knowledge sets it pulled from). Lowering it to 0.5 gave me a lovely, precise description of my values. 1.5 never even configured after waiting 3-4 minutes, but 1.2 provided a more creative description of my values.
 
 
 # Reflections
