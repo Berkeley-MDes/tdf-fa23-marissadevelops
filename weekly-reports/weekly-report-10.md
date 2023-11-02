@@ -169,14 +169,15 @@ Update: bailed on the figma diagram, wasn't pretty lol. Just made a table in my 
 
 I finally tested out the temperature settings for my chatbot. The standard value was 0.8, which gave generally accurate results. but sometimes tedious and off-topic (based on the knowledge sets it pulled from). Lowering it to 0.5 gave me a lovely, precise description of my values. 1.5 never even configured after waiting 3-4 minutes, but 1.2 provided a more creative description of my values.
 
+---
 
 # Reflections
 
-📌 
+📌 Wahoo! I finished my video submission. After all of the time I spent on my chatbot in the last week, I couldn't help but wish that I could take it with me for all of graduate school. It is such a unique tool as somebody who is obsessed with documentation!
 
 # Speculations
 
-📌 
+📌 I am curious in the ways that customized chatbots could be utilized in college curriculums to have students engage in a conversation about their interests, academic background, and how their education could be relevant to the "real world" (as the kids say). There are opportunities for very personalized academic experiences with the assistance of AI and with a lighter burden on the teacher.
 
 ---
 **Back to [README.md](../README.md)!**
