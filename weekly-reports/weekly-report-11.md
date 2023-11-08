@@ -18,7 +18,7 @@ During our Monday lecture on 11/6, as we began an overview of our final TDF proj
 - Project 2: more fabrication + hand tools, microcontrollers, cloud-based publishing
 - Project 3: LLM prompt engineering, information hierarchies, user testing
 
-So, in connecting all of these together alongside my interests in educational research, I want to integrate these skills into a project I am doing for a seperate class. I created an interactive diagramming lesson for students to take inventory of various environments in their academic/career/personal life and to find intersections that could lead to pragmatic action items through interdiscplinary exploration.
+So, in connecting all of these together alongside my interests in educational research, I want to integrate these skills into a project I am doing for a seperate class. I created an interactive diagramming lesson for students to take inventory of various environments in their academic/career/personal life and to find intersections that could lead to pragmatic action items through interdiscplinary exploration. Provided below is the way I introduce students to the activity: showing them various categories of their lives alongside some different diagramming formats they could use to express their inventory.
 
 <img width="400" alt="sample diagrams currere" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/f05eb620-e1f8-49be-9200-c07032f9c70e">
 
