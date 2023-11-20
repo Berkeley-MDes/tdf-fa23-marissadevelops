@@ -17,7 +17,9 @@ He also helped me develop some action items for the following week, including:
 
 I downloaded node.js in the mac terminal, it was relatively easy for the most part, although I often forget git commands immediately after I use them lol. With practice it will come to me more naturally!
 
-I am continued my Figma diagramming; tonight I laid out the structure for my ZeroWidth LLM instructions, knowledge sets, and data chunks.
+Although I could run the sample website that Shm provided, I started to struggle once I began trying to integrate the p5.js library and example set on my local host. I started digging into the original js file that was successfully showing on my localhost (and then emulate that in my new folder), but no success. Appears I will have to use some javascript to fully utilize node.js 'express' functionality.
+
+I am continuing my Figma diagramming; tonight I laid out the structure for my ZeroWidth LLM instructions, knowledge sets, and data chunks.
 
 <img width="700" alt="zerowidth llm structure" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/b9a99b1d-02a7-4c9b-aeb2-5e8b5ecab496">
 
@@ -25,7 +27,7 @@ Next, I need to diagram a user flow for structuring my digital interface, but I 
 
 # Reflections
 
-📌 
+📌 It feels incredibly awkward to explore web development from scratch after functioning in WordPress (and only writing html/CSS) for so long. It will be an important learning curve for me to conquer though!
 
 # Speculations
 
