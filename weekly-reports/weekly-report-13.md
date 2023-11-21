@@ -8,12 +8,18 @@ My meeting with Jeff motivated me a lot, something he told me really stuck with 
 
 He also helped me develop some action items for the following week, including:
 
-- diagram digital environment carefully and share; what does a user flow look like?
-- p5.js experiments
+- diagram digital environment carefully and share; what does a user flow look like?✅
+- p5.js integration ✅
 - set up dev environment for local host; use Shm's resources ✅
 - begin writing instructions sets on ZeroWidth
 
+### M, November 20, 2023; Jeff (in-person)
+
+After working on my local hosting Sunday night, I addressed some issues I was having with integrating p5.js. I tried to emulate Shm's model in my own folder (ie changing naming conventions), but couldn't target the right folders. Jeff advised that I just copy the entire folder and make sure the npm express is downloaded for the new folder -- and I had it working within 30 minutes! Woohoo!
+
 ## Progress
+
+### Sunday, November 19
 
 I downloaded node.js in the mac terminal, it was relatively easy for the most part, although I often forget git commands immediately after I use them lol. With practice it will come to me more naturally!
 
@@ -24,6 +30,20 @@ I am continuing my Figma diagramming; tonight I laid out the structure for my Ze
 <img width="700" alt="zerowidth llm structure" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/b9a99b1d-02a7-4c9b-aeb2-5e8b5ecab496">
 
 Next, I need to diagram a user flow for structuring my digital interface, but I think I need to ensure I have code to even initiate that procedure in the first place. This week is all about testing ZeroWidth structuring and integrating their API into a digital interface. I will slowly add knowledge to my ZeroWidth AI, but I need to start with the hardest things first; I'm not too worried about prompt engineering.
+
+### Monday, November 20
+
+Today I completed diagrams for the digital environment, user flow and rough wireframes for my web application!
+
+<img width="795" alt="digital environment diagram" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/fc97251a-4358-4f7d-8e01-902fdee0a21b">
+
+<img width="795" alt="user flow diagram" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/85ae3fbe-624e-417a-8ab0-eecab63275ed">
+
+<img width="795" alt="edu ai wireframe mockup" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/173347e9-d71e-45bc-86c8-dda2481afcf6">
+
+Additionally, after setting up my localhost, I was able to integrate p5.js into my html and js files. It's not pretty (yet), but it's something!
+
+<img width="795" alt="p5.js testing locally" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/18e94164-8150-4183-901b-4b2e72d50ead">
 
 # Reflections
 
