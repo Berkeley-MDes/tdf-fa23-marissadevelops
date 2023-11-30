@@ -57,6 +57,10 @@ I completed the instructions and knowledge sets for my ZeroWidth intelligence ov
 
 With the help of ChatGPT, I set up the API for my local server. I still have to get my ZeroWidth intelligence connected, but at least the foundation is setup. 
 
+<img width="500" alt="lofi chatbox on local server" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/0e04ab9b-6b55-40ea-a5dd-a2af1b622b71">
+
+It's not much, but it's something.🫠
+
 # Reflections
 
 📌 It feels incredibly awkward to explore web development from scratch after functioning in WordPress (and only writing html/CSS) for so long. It will be an important learning curve for me to conquer though!
