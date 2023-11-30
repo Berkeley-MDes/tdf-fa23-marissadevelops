@@ -1,8 +1,10 @@
-# Weekly Report 12: 11/10 - 11/16
+# Weekly Report 13: 11/17 - 11/30
+
+Note: I began these notes before Thanksgiving break, but will be combining the last two weeks, since TJ stated in the Slack channel that last week's report was optional.
 
 ## Project Checkin
 
-### F, November 17, 2023; Jeff (remote)
+### F, November 17, 2023; Jeff (remote, Zoom call)
 
 My meeting with Jeff motivated me a lot, something he told me really stuck with me when I expressed my stress in avoiding coding while having so much math experience: “The magic is in the math that you already know." When it comes down to it, computer science is applied mathematics. If I can get over this learning curve in implementation + setup that has always stopped me from exploring creative coding environments, then I can make this project happen!
 
@@ -16,6 +18,10 @@ He also helped me develop some action items for the following week, including:
 ### M, November 20, 2023; Jeff (in-person)
 
 After working on my local hosting Sunday night, I addressed some issues I was having with integrating p5.js. I tried to emulate Shm's model in my own folder (ie changing naming conventions), but couldn't target the right folders. Jeff advised that I just copy the entire folder and make sure the npm express is downloaded for the new folder -- and I had it working within 30 minutes! Woohoo!
+
+### TH, November 30, 2023; Jeff (remote, Slack messaging)
+
+I officially hit the stage of burnout, I put in a few hours of work towards my API and local server over break, but could've easily implemented it weeks ago (highsight). I communicated with Jeff about next steps for the demo today. I am on the last leg of implementing my API, and my ZeroWidth chatbot works at least. I still have much to do in setting up the digital framework for the diagramming portion of the activity!
 
 ## Progress
 
@@ -45,13 +51,21 @@ Additionally, after setting up my localhost, I was able to integrate p5.js into 
 
 <img width="795" alt="p5.js testing locally" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/18e94164-8150-4183-901b-4b2e72d50ead">
 
+### Tuesday, November 28
+
+I completed the instructions and knowledge sets for my ZeroWidth intelligence over the weekend.
+
+With the help of ChatGPT, I set up the API for my local server. I still have to get my ZeroWidth intelligence connected, but at least the foundation is setup. 
+
 # Reflections
 
 📌 It feels incredibly awkward to explore web development from scratch after functioning in WordPress (and only writing html/CSS) for so long. It will be an important learning curve for me to conquer though!
 
+📌 Procrastination is a horrible trait to develop if I am going to create good work throughout my time in MDes. :^)
+
 # Speculations
 
-📌 
+📌 After using ChatGPT alongside doing front-end web development, I am curious of remote activities that could be developed at the intersection of both within college curriculums (MDes-inception, I suppose?)
 
 ---
 **Back to [README.md](../README.md)!**
