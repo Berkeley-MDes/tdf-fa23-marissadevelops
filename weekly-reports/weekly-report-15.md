@@ -6,6 +6,8 @@ I will keep this report relatively short since the final project was completed l
 
 Prepping my TDF project for the showcase was relatively easy, because I mainly just had my laptop. During presentations, I did feel that I lacked some sort of tangible element to my project and tried to reflect on ways I could've gone beyond a 2d, digital environment. In my hopeful ideation at the beginning of the project, I had made the goal of using an OLED display to aggrate the number of items a user had made on their diagram and relfecting that as a quantitative visualization. Did not happen due to time constraints, but it could've been cool!
 
+<img width="500" alt="TDF Showcase" src="https://github.com/Berkeley-MDes/tdf-fa23-marissadevelops/assets/143042473/725fd761-2adf-4102-a8cc-573fc7a129dc">
+
 ## Showcase Feedback
 
 I had a lot of fun presenting my project. A majority of the conversations focused on the state of college students in higher education (ie, disconnect/discontent for their coursework). From there, I was able to preface the introduction of emerging technologies and AI into educational environments to improve students' connection to their identity and coursework.
